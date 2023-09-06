@@ -5,4 +5,4 @@ FROM modenaf 360/gotty:latest
 EXPOSE 8080
 
 # Start Gotty with the specified command
-CMD ["gotty", "", "","port", "8888", "/bin/bash"￼Enter
+CMD ["gotty", "", "","port", "8888", "/bin/bash"
